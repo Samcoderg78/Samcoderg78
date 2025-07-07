@@ -14,4 +14,4 @@ I'm passionate about **Machine Learning**, **Deep Learning**, and building intel
 - 🤖 Built a secure, explainable ML-based system for phishing email classification
 - 🎯 Currently learning: MLOps, Cloud Deployment, and Generative AI
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📫 Let’s connect: [LinkedIn](www.linkedin.com/in/saurabh-yadav-6zd)
