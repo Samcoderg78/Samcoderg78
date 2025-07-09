@@ -1,3 +1,5 @@
+![Black and White Illustrative Manager LinkedIn Banner](https://github.com/user-attachments/assets/875d8a53-b1a9-485f-be2c-0f432c296178)
+
 ## 👋 About Me
 
 I'm currently pursuing a **B.S. in Data Science and Applications** from **IIT Madras**.
