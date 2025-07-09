@@ -1,4 +1,5 @@
-![Black and White Illustrative Manager LinkedIn Banner](https://github.com/user-attachments/assets/875d8a53-b1a9-485f-be2c-0f432c296178)
+![Black and White Illustrative Manager LinkedIn Banner (1)](https://github.com/user-attachments/assets/5aae20fa-ed88-413b-9d89-72dc8183b7ca)
+
 
 ## 👋 About Me
 
