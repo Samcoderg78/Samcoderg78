@@ -1,50 +1,92 @@
 ![Black and White Illustrative Manager LinkedIn Banner (1)](https://github.com/user-attachments/assets/5aae20fa-ed88-413b-9d89-72dc8183b7ca)
 
 
-👋 About Me
+# 👋 Hi, I'm Saurabh Yadav
 
-I'm a Data Engineer and IIT Madras B.S. in Data Science & Applications graduate, passionate about building scalable data platforms and cloud-native data pipelines. I enjoy solving real-world data engineering challenges by designing reliable ETL workflows, improving data quality, and enabling analytics through modern cloud technologies.
+🎓 Final-year B.S. in Data Science & Applications student at **IIT Madras** with a strong interest in **Data Engineering, Cloud Data Platforms, and Distributed Data Systems**.
 
-Previously, I worked as a Data Engineering Intern at Aditya Birla Group (Hindalco), where I built production-grade PySpark pipelines on Databricks, developed a multi-plant Unity Catalog governance framework, and engineered cloud data workflows for large-scale industrial datasets.
+I enjoy building scalable data pipelines, designing cloud-native data architectures, and solving real-world data engineering problems. During my internship at **Aditya Birla Group (Hindalco)**, I worked on production-grade ETL pipelines, data governance, and cloud data platforms using Databricks and Azure.
 
-🔧 Tech Stack
+---
 
-Data Engineering
-PySpark • Apache Spark • Databricks • ETL Pipelines • Data Modeling • Delta Lake • Unity Catalog • Data Quality Frameworks
+## 🚀 What I'm Working On
 
-Cloud Platforms
-AWS (Glue • S3 • Lambda • Athena • Redshift • Kinesis • Step Functions)
-Azure (ADLS • Azure Databricks • Azure Data Factory)
-GCP (BigQuery • Vertex AI • Cloud Storage)
+- Building scalable ETL pipelines using **PySpark** and **Databricks**
+- Exploring cloud-native data engineering on **AWS**, **Azure**, and **GCP**
+- Learning modern data platform technologies and best practices
+- Building end-to-end data engineering projects
 
-Databases
-PostgreSQL • MySQL • SQLite
+---
 
-MLOps & DevOps
-Terraform • Docker • GitHub Actions • MLflow • DVC • SonarQube
+## 🛠 Tech Stack
 
-Programming
-Python • SQL
+### Data Engineering
+- Apache Spark (PySpark)
+- Databricks
+- ETL Pipelines
+- Delta Lake
+- Unity Catalog
+- Data Modeling
+- Batch Processing
+- Data Quality Frameworks
 
-🚀 Featured Projects
+### Cloud Platforms
+- **AWS:** Glue, S3, Lambda, Athena, Redshift, Kinesis, Step Functions
+- **Azure:** Azure Data Lake Storage (ADLS), Azure Databricks, Azure Data Factory
+- **GCP:** BigQuery, Vertex AI, Cloud Storage
 
-🏗 Production ETL Pipelines (Aditya Birla Group)
-Built production-grade PySpark pipelines for industrial time-series and manufacturing data using Databricks, PostgreSQL, Azure ADLS, and REST APIs.
+### Programming & Databases
+- Python
+- SQL
+- PostgreSQL
+- MySQL
+- SQLite
 
-☁️ AWS End-to-End Data Lakehouse
-Designed a Medallion (Bronze → Silver → Gold) architecture using AWS Glue, PySpark, S3, Athena, Redshift Serverless, Step Functions, and Terraform.
+### DevOps & Tools
+- Docker
+- Terraform
+- GitHub Actions
+- MLflow
+- DVC
+- SonarQube
+- Git
+- Jira
+- Confluence
 
-🤖 Academic RAG System
-Developed a Retrieval-Augmented Generation pipeline using Hugging Face sentence-transformers, FAISS, and Gemini API for semantic document search over 1,000+ academic documents.
+---
 
-🏆 Highlights
-🏭 Built a multi-plant Unity Catalog framework across 3 manufacturing plants
-⚡ Engineered 2 production-grade ETL pipelines using PySpark & Databricks
-☁️ Built an end-to-end AWS Medallion Lakehouse with Infrastructure as Code
-🥈 Runner-Up — ByteBash Hackathon 2025, IIT Madras
-🏅 Microsoft Fabric Data Engineer Associate
-🏅 Databricks Fundamentals Accreditation
-🏅 AWS Academy Data Engineering & AWS Cloud Foundations
-📫 Connect with Me
-💼 LinkedIn: linkedin.com/in/saurabh-yadav-6zd
-📧 Email: 23f1003171@ds.study.iitm.ac.in
+## 📌 Featured Projects
+
+### 🏭 Production ETL Pipelines (Aditya Birla Group)
+- Built production-grade ETL pipelines using **PySpark**, **SQL**, and **Databricks**
+- Processed industrial time-series and manufacturing data for analytics
+- Implemented automated data quality validations and monitoring
+- Designed a multi-plant Unity Catalog governance framework
+
+### ☁️ AWS End-to-End Data Lakehouse
+- Built a Medallion Architecture (Bronze → Silver → Gold) using AWS
+- Used Glue, S3, Athena, Redshift Serverless, Step Functions, and Terraform
+- Developed reusable data quality frameworks and automated deployment workflows
+
+### 🤖 Academic RAG System
+- Developed a Retrieval-Augmented Generation (RAG) pipeline for 1,000+ academic documents
+- Built document ingestion, embedding generation, semantic retrieval, and LLM-powered response generation
+- Implemented semantic search using Hugging Face embeddings and the Gemini API
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🏅 Microsoft Fabric Data Engineer Associate
+- 🏅 Databricks Fundamentals Accreditation
+- 🏅 AWS Academy Data Engineering
+- 🏅 AWS Academy Cloud Foundations
+- 🏅 Advanced SQL – HackerRank
+- 🥈 Runner-Up – ByteBash Hackathon 2025 (IIT Madras)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/saurabh-yadav-6zd
+- 📧 Email: 23f1003171@ds.study.iitm.ac.in
