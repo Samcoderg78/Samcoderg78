@@ -9,12 +9,12 @@ I enjoy building scalable data pipelines, designing cloud-native data architectu
 
 ---
 
-## 🚀 What I'm Working On
+## 🌱 Currently Learning
 
-- Building scalable ETL pipelines using **PySpark** and **Databricks**
-- Exploring cloud-native data engineering on **AWS**, **Azure**, and **GCP**
-- Learning modern data platform technologies and best practices
-- Building end-to-end data engineering projects
+- Advanced Data Engineering on Databricks
+- Cloud Data Platforms (AWS, Azure & GCP)
+- Distributed Data Processing with Apache Spark
+- Building scalable data pipelines and modern lakehouse architectures
 
 ---
 
